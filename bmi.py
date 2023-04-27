@@ -16,5 +16,5 @@ def calculate_bmi(height, weight):
     elif (bmi <= 25.0) and (bmi >= 18.5):
         print("Normal Weight")
 
-calculate_bmi(weight=57, height=1.73)
 
+calculate_bmi(weight=57, height=1.73)
